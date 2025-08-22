@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @swedha
 - 👀 I’m interested in web development
 - I know html,css,js...
-- 🌱 I’m currently learning js
+- 🌱 I’m currently learning js,wordpress
 - 💞️ I’m looking to collaborate on github
 - ⚡ Fun fact: ☺️
 
