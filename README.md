@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @swedha108
+- 👋 Hi, I’m @swedha
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning html
 - 💞️ I’m looking to collaborate on github
